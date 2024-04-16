@@ -1,2 +1,2 @@
 # kems
-Card game
+A simple virtual card game.

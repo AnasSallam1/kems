@@ -1,2 +1,2 @@
 # kems
-A simple Java FX 2D card video game.
+A simple Android 2D card video game.

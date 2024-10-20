@@ -1,2 +1,2 @@
 # kems
-A simple Android 2D card video game.
+Kems is a popular game where players aim to collect a set of cards in order to win.

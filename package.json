@@ -1,0 +1,8 @@
+{
+  "name": "Kems",
+  "version": "0.0.1",
+  "scripts": {
+    "android": "cd android && ./gradlew app:assembleDebug && ./gradlew app:installDebug"
+  },
+  "dependencies": {}
+}

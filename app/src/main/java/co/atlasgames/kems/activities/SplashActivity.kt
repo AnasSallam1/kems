@@ -5,7 +5,7 @@ import android.content.Intent
 import android.os.Bundle
 import android.os.Handler
 import androidx.appcompat.app.AppCompatActivity
-import co.atlasstudios.kems.R
+import co.atlasgames.kems.R
 
 @SuppressLint("CustomSplashScreen")
 class SplashActivity : AppCompatActivity() {

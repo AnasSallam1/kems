@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
+include(":android")
 rootProject.name = "Kems"
-include(":app")

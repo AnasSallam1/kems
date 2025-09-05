@@ -10,7 +10,7 @@ import co.atlasgames.kems.R
 @SuppressLint("CustomSplashScreen")
 class SplashActivity : AppCompatActivity() {
 
-    private val splashDelay = 3000 // 3 seconds
+    private val splashDelay = 3000 // 3 Seconds
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

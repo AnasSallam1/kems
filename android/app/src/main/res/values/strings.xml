@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kems</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="kems">Kems</string>
+    <string name="version">Version: 1.0</string>
+    <string name="appName">Kems</string>
+    <string name="creator">Created by: Atlas Games</string>
+</resources>
